@@ -1,2 +1,4 @@
 # bytecompiled python files
 *.pyc
+# distribution dir created by py2exe
+dist/
